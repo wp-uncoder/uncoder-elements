@@ -1,0 +1,21 @@
+{
+  "name": "Uncoder Elements",
+  "slug": "uncoder-elements",
+  "author": "<a href='https://uncoder.co'>Avijit Hazra</a>",
+  "author_profile": "https://uncoder.co",
+  "version": "1.0.7.3",
+  "download_url": "https://github.com/wp-uncoder/uncoder-elements/releases/download/v1.0.7.3/uncoder-elements.zip",
+  "requires": "3.0",
+  "tested": "7.0",
+  "requires_php": "7.4",
+  "last_updated": "2026-05-28 12:16:00",
+  "sections": {
+    "description": "<p><strong>Uncoder Elements</strong> is a powerful Elementor addon that brings useful widgets, design controls, performance tools, and WooCommerce-ready enhancements into one lightweight plugin.</p><p>It includes 10+ creative widgets, mega menu support, custom animations, advanced Elementor controls, 7000+ SVG optimized icons, WebP generation, database optimization, loading speed improvements, and more.</p><p>Whether you are building landing pages, business websites, WooCommerce stores, blogs, or custom Elementor layouts, Uncoder Elements helps you design faster, customize better, and keep your website optimized.</p>",
+    "installation": "<ol><li>Download the <strong>Uncoder Elements</strong> plugin ZIP file.</li><li>Go to your WordPress dashboard.</li><li>Navigate to <strong>Plugins > Add New</strong>.</li><li>Click <strong>Upload Plugin</strong>.</li><li>Select the <code>uncoder-elements.zip</code> file and click <strong>Install Now</strong>.</li><li>After installation, click <strong>Activate Plugin</strong>.</li><li>Make sure Elementor is installed and activated to use the Elementor widgets and controls.</li></ol>",
+    "changelog": "<h4>1.0.7.3 – 28 May 2026</h4><ul><li>Minor bug fixes and code improvements.</li></ul><h4>1.0 – 09 June 2025</h4><ul><li>Initial release.</li></ul>"
+  },
+  "banners": {
+    "low": "https://raw.githubusercontent.com/wp-uncoder/uncoder-elements/main/banner-772x250.jpg",
+    "high": "https://raw.githubusercontent.com/wp-uncoder/uncoder-elements/main/banner-1544x500.jpg"
+  }
+}
