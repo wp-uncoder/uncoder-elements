@@ -6,7 +6,7 @@
   "version": "2.0.1",
   "download_url": "https://github.com/wp-uncoder/uncoder-elements/releases/download/v2.0.1/uncoder-elements.zip",
   "requires": "6.0",
-  "tested": "6.8",
+  "tested": "7.1.2",
   "requires_php": "7.4",
   "last_updated": "2026-10-01 00:00:00",
   "sections": {
